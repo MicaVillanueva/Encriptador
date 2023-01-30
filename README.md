@@ -1,2 +1,0 @@
-# Encriptador
-Desafío encriptador
